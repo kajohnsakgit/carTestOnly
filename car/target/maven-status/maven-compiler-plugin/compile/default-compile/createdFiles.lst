@@ -1,0 +1,6 @@
+com\bluebik\car\musclecar\MuscleCarService.class
+com\bluebik\car\musclecar\MuscleCarDao.class
+com\bluebik\car\musclecar\MuscleCarDaoImpl.class
+com\bluebik\car\musclecar\MuscleCar.class
+com\bluebik\car\CarApplication.class
+com\bluebik\car\musclecar\MuscleCarResource.class
